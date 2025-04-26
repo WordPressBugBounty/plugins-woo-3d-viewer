@@ -4,16 +4,16 @@ Plugin Name: Easy 3D Viewer
 Description: WP/WooCommerce 3D viewer
 Author: Sergey Burkov
 Text Domain: woo3dv
-Version: 1.8.6.6
+Version: 1.8.6.7
 WC requires at least: 3.5
-WC tested up to: 9.7.9
+WC tested up to: 9.8.9
 */
 
 if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly
 }
 
-define('WOO3DV_VERSION', '1.8.6.6');
+define('WOO3DV_VERSION', '1.8.6.7');
 
 global $wpdb;
 if ( !function_exists( 'get_home_path' ) ) {
