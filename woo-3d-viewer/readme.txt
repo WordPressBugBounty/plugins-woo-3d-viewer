@@ -2,8 +2,8 @@
 Contributors: fuzzoid
 Tags: 3D, stl, obj, model, viewer, woocommerce
 Requires at least: 3.5
-Tested up to: 6.8
-Stable tag: 1.8.6.9
+Tested up to: 6.9
+Stable tag: 1.8.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -97,6 +97,11 @@ http://woo3dviewer.wp3dprinting.com/shortcode-test/
 3. Backend - shortcode builder settings
 
 == Changelog ==
+
+
+= 1.8.7 =
+
+* Wordpress 6.9
 
 = 1.8.6.9 =
 
